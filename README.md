@@ -1,5 +1,12 @@
 # Capsule-corp
 
+Synopsis réaliser par les étudiants en 2 ème année de l'EFREI consitué de :
+YAZID Djaoudi : Chef de projet
+RIDA Nassar : Responsable technique
+HAYMADOU Dukureh : Responsable communication
+ANASS Roudani : Responsable Design
+EDDIE Cao : Consultant / Beta testeur
+
 // Analyse du projet //
 
 Aujourd’hui, nous sommes étudiants. L’année prochaine, une autre génération prendra notre place, et ceci est un cycle qui continuera et qui continue depuis déjà énormément de génération. Le point commun entre tous est le fait que nous soyons étudiants.
