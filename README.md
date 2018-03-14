@@ -1,6 +1,6 @@
 # Capsule-corp
 
-Synopsis réaliser par les étudiants en 2 ème année de l'EFREI consitué de :
+Synopsis réalisé par les étudiants en 2 ème année de l'EFREI consitués de :
 YAZID Djaoudi : Chef de projet
 RIDA Nassar : Responsable technique
 HAYMADOU Dukureh : Responsable communication
